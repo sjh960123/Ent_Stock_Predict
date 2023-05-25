@@ -13,3 +13,5 @@
 ## 머신 러닝 기반 주가 예측
   scikit-learn 기반의 skforecast 라이브러리 사용
   여러 Regressor 모델을 사용하여 각 기업의 주가 예측 진행
+
+ppt 참고
